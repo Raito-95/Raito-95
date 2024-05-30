@@ -1,3 +1,4 @@
+
 <div style="display: block; text-align: center;">
     <picture>
       <source
@@ -23,3 +24,5 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raito-95&layout=compact&show_icons=true" style="width: 100%; max-width: 400px;"/>
     </picture>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Raito-95&style=for-the-badge" alt="Profile views counter"/>
