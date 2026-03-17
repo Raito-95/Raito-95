@@ -1,7 +1,8 @@
 # Hi, I'm Raito
 
-Taiwan-based embedded developer focused on firmware, device integration, and practical tooling.
-I build reliable systems close to hardware and use Python to improve development workflows.
+Embedded developer working on firmware, device integration, and low-level debugging.
+
+Most of my work is close to hardware using C, and I use Python to automate testing and improve development workflows.
 
 ## Tech Stack
 
@@ -21,10 +22,7 @@ I build reliable systems close to hardware and use Python to improve development
 
 ## Current Focus
 
-- Firmware architecture and driver-level reliability
-- Embedded debugging, performance tuning, and hardware bring-up
-- Python-based automation for testing and developer productivity
-
-## Contact
-
-- GitHub: [@Raito-95](https://github.com/Raito-95)
+- Firmware architecture and driver development
+- Hardware bring-up and embedded debugging
+- Performance tuning on resource-constrained systems
+- Python tools for testing and workflow automation
